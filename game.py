@@ -44,7 +44,7 @@ FPS=60
  #Создание мяча и ракетки:
 racket1=Player('racket.png', 30, 200, 4, 50, 150)
 racket2=Player('racket.png', 520, 200, 4, 50, 150)
-ball=GameSprite('tenis_ball.png',200, 200, 4, 50, 50)
+ball=GameSprite('planeta.png',200, 200, 4, 50, 50)
 
 speed_x = 3
 speed_y = 3
